@@ -9,4 +9,6 @@ I enjoy learning by building, experimenting with models, and exploring new tools
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishacse88&show_icons=true&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishacse88&theme=dark)
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=ishacse88&theme=dark)
+
